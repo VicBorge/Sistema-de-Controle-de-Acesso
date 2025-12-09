@@ -2,6 +2,7 @@
 
 Aluno: Victor Gomes de Freitas Borge
 Matricula: 120110106
+Tema do projeto: Sistema de Controle de Acesso
 
 ## Descrição
 Nos dias de hoje, as empresas, indústrias e edificações necessitam cada vez mais de sistemas de segurança eficientes e integrados, que vão além da vigilância física, como câmeras e seguranças, ou sistemas tradicionais de fechaduras e chaves. Com o aumento da complexidade dos ambientes corporativos, se torna necessário acessos restritos a áreas sensíveis, necessidade de rastreamento e monitoramento de entradas e saídas, com isso, surge a demanda por sistemas inteligentes de controle de acesso e supervisão. Nesse contexto, um sistema de segurança baseado em maçanetas eletrônicas / fechaduras eletrônicas, controle de acesso e sistema supervisório com IHM representa uma alternativa moderna e eficaz para garantir proteção e gestão centralizada dos acessos.
